@@ -1,0 +1,40 @@
+--- !ruby/object:Game
+game_name: My game
+player: !ruby/object:Player
+  name: John
+  guess: z
+wrong_guesses: 0
+wrong_guess_display:
+- z
+word: hydrologic
+secret_display:
+- h
+- y
+- d
+- r
+- o
+- l
+- o
+- g
+- i
+- c
+public_display:
+- h
+- " "
+- " "
+- " "
+- " "
+- " "
+- " "
+- " "
+- " "
+- " "
+body_parts:
+- head
+- body
+- right arm
+- left arm
+- right leg
+- left leg
+hangman:
+- head
